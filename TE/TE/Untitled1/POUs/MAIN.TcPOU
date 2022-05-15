@@ -3,6 +3,9 @@
   <POU Name="MAIN" Id="{d2bfc508-792e-4c16-984e-6b9cb488ac84}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
+	
+	test : BOOL;
+	test2 : BOOL;
 END_VAR
 ]]></Declaration>
     <Implementation>
